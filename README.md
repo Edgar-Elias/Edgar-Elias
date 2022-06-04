@@ -7,7 +7,7 @@ I started this course to better understand the inner workings of programming lan
 
 As for Data Analytics, I have completed Google's Data Analytics Program and find it incredibly interesting how you can solve problems and find useful insights with a little data cleansing and manipulation through ETL. 
 
-- 💞️ I’m looking to collaborate on anything that is looking to find solutions to a problem. The reason I started getting interested in programing or data analytics was to use those skill to make a difference or achieve something that will solve problems and make life a little better or interesting.
+- 📖 Open Book I’m looking to collaborate on anything that is looking to find solutions to a problem. The reason I started getting interested in programing or data analytics was to use those skill to make a difference or achieve something that will solve problems and make life a little better or interesting.
 
 - 📫 How to reach me ...  www.linkedin.com/in/edgar-elias-
 
